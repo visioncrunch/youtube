@@ -61,6 +61,5 @@ except:
 
 *This try-catch is to handle duplicate, private, or unlisted videos. Other handles are also managed by skipping those videos.*
 
-```
 
 In Markdown, you use backslashes to escape special characters, like single quotes in file paths, to ensure they're interpreted correctly. For example, to write `Dad's Work` in a path without causing syntax issues, you write it as `Dad\'s Work`.
