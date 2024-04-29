@@ -1,3 +1,6 @@
+# Install pytube
+
+	pip install pytube
 # Video to MP3
 ```markdown
 
